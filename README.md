@@ -2,7 +2,7 @@
 
 A production-ready demonstration of vibecoding - building full-stack applications through natural conversation with AI. This project showcases modern web development patterns, beautiful UI/UX design, and the power of AI-assisted development.
 
-🔗 **Live Demo**: [Add your hosted URL here after publishing]
+🔗 **Live Demo**: [(https://joy-code-gem.lovable.app/)]
 
 ## What is This?
 
