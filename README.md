@@ -2,7 +2,7 @@
 
 A production-ready demonstration of vibecoding - building full-stack applications through natural conversation with AI. This project showcases modern web development patterns, beautiful UI/UX design, and the power of AI-assisted development.
 
-🔗 **Live Demo**: [Live Demo on Netlify](https://vibecodingtool.netlify.app/)]
+🔗 **Live Demo**: [(https://vibecodingtool.netlify.app/)]
 
 ## What is This?
 
