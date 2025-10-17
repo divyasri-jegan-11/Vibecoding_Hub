@@ -2,7 +2,7 @@
 
 A production-ready demonstration of vibecoding - building full-stack applications through natural conversation with AI. This project showcases modern web development patterns, beautiful UI/UX design, and the power of AI-assisted development.
 
-🔗 **Live Demo**: [(frolicking-pegasus-562d6a.netlify.app)]
+🔗 **Live Demo**: [frolicking-pegasus-562d6a.netlify.app]
 
 ## What is This?
 
